@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Mathias 👋
 
-<!--
-**maot01/maot01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a .NET full-stack developer with a focus on web application, services and clean, maintainable code.
+Currently working on enterprise systems using C#, Azure, and modern CI/CD practices.
 
-Here are some ideas to get you started:
+💡 I’m interested in:
+- Desktop app development
+- Clean architecture & domain-driven design
+- Cloud development (Azure)
+- Developer experience and automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️ Tech stack:
+C#, ASP.NET Core, Entity Framework, SQL, Azure
+
+📫 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/mathiasottosson)
